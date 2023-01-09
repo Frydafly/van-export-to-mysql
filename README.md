@@ -1,4 +1,8 @@
-# serverupdate
+# About
+
+This SQL scripts run code that updates the data in our MySQL server from the voter file
+
+# serverupdate instructions
 
 
 Use jupyter notebook if the csv file is less than 50,000 rows
