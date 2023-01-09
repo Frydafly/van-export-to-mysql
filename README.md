@@ -1,6 +1,6 @@
 # About
 
-These SQL scripts run code that updates the data in our MySQL server from the voter file
+These python notebooks run code that updates the data in our MySQL server from VAN voter file data.
 
 # serverupdate instructions
 
