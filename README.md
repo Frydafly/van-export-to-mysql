@@ -1,6 +1,6 @@
 # About
 
-This SQL scripts run code that updates the data in our MySQL server from the voter file
+These SQL scripts run code that updates the data in our MySQL server from the voter file
 
 # serverupdate instructions
 
